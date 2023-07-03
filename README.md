@@ -1,5 +1,5 @@
 # Progetto finale di Linguistica Computazionale
-
+*Linguistica Computazionale*, Università di Pisa, a.a. 2022/2023
 ## Obiettivo
 Realizzazione di due programmi scritti in Python su Jupyter Notebook che utilizzino i moduli di NLTK per analizzare linguisticamente due corpora di testo inglese, confrontarli sulla base di alcuni indici statistici, ed estrarre da essi informazioni.
 ## Programma 1
